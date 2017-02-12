@@ -1,0 +1,2 @@
+This is a project I have been working on for the last couple of months on and off to try to create random logograms from the Arrival movie! The function to call it will ship with some sane defaults aimed at a 1920x1080 screens, but should be extremely customizable. Feel free to leave a comment if you'd like to help, I am currently trying to use Metaballs to recreate the blobby bits, I previously had some decent tendrils and will re-add those once I have the blobs in place and merging nicely with the main body.
+
